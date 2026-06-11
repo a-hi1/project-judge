@@ -1,0 +1,11 @@
+{
+  "project_name": "测试项目",
+  "scores": {
+    "resume": { "score": 999, "reason": "分数越界" },
+    "learning": { "score": -30, "reason": "负数" },
+    "business": { "score": "abc", "reason": "非数字" },
+    "difficulty": { "score": null, "reason": "" },
+    "innovation": {},
+    "recommendation": { "score": 80, "reason": "正常" }
+  }
+}

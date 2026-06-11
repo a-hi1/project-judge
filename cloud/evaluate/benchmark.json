@@ -1,0 +1,18 @@
+{
+  "ai_resume": { "avg": 68, "top30": 75, "top20": 82, "top10": 88 },
+  "ai_writing": { "avg": 65, "top30": 73, "top20": 80, "top10": 87 },
+  "ai_chatbot": { "avg": 62, "top30": 70, "top20": 78, "top10": 85 },
+  "ai_assistant": { "avg": 70, "top30": 78, "top20": 84, "top10": 90 },
+  "agent": { "avg": 75, "top30": 82, "top20": 88, "top10": 92 },
+  "rag": { "avg": 72, "top30": 79, "top20": 85, "top10": 90 },
+  "saas_tool": { "avg": 66, "top30": 74, "top20": 81, "top10": 87 },
+  "dev_tool": { "avg": 73, "top30": 80, "top20": 86, "top10": 91 },
+  "education": { "avg": 60, "top30": 68, "top20": 75, "top10": 82 },
+  "ecommerce": { "avg": 58, "top30": 66, "top20": 73, "top10": 80 },
+  "social": { "avg": 55, "top30": 63, "top20": 70, "top10": 78 },
+  "game": { "avg": 52, "top30": 60, "top20": 68, "top10": 76 },
+  "open_source_tool": { "avg": 70, "top30": 77, "top20": 83, "top10": 89 },
+  "data_analysis": { "avg": 67, "top30": 74, "top20": 81, "top10": 87 },
+  "automation": { "avg": 69, "top30": 76, "top20": 82, "top10": 88 },
+  "default": { "avg": 65, "top30": 73, "top20": 80, "top10": 86 }
+}

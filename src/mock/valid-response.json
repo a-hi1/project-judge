@@ -1,0 +1,23 @@
+{
+  "project_name": "AI简历助手",
+  "summary": "基于LLM的智能简历优化工具",
+  "verdict": "recommend",
+  "confidence": 78,
+  "one_line_conclusion": "市场需求大，技术门槛适中，值得尝试",
+  "estimated_dev_time": "7天",
+  "suitable_for": ["前端开发者", "AI初学者", "独立开发者"],
+  "not_suitable_for": ["纯后端开发者", "零编程基础"],
+  "scores": {
+    "resume": { "score": 85, "reason": "涉及LLM应用开发，简历加分明显" },
+    "learning": { "score": 72, "reason": "可学习Prompt Engineering和API对接" },
+    "business": { "score": 68, "reason": "求职市场刚需，付费意愿中等" },
+    "difficulty": { "score": 45, "reason": "技术栈成熟，文档完善" },
+    "innovation": { "score": 55, "reason": "已有竞品，但差异化空间存在" },
+    "recommendation": { "score": 78, "reason": "综合性价比高，适合练手" }
+  },
+  "pros": ["市场需求明确", "技术门槛适中", "简历加分明显"],
+  "cons": ["竞品较多", "需要持续维护", "变现路径不清晰"],
+  "mvp_suggestion": ["先做单页简历优化", "集成一个LLM即可", "不做用户系统"],
+  "tech_stack": ["React", "Node.js", "OpenAI API", "TailwindCSS"],
+  "resume_text": "开发基于LLM的智能简历优化系统，支持多维度简历评分与优化建议生成，日均服务XX用户"
+}
