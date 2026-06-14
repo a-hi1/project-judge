@@ -3,3 +3,4 @@ dist/
 .temp/
 .DS_Store
 *.log
+node_modules
